@@ -1,0 +1,15 @@
+Consider the following classes:
+
+public class Vehicle {...}
+public class Car extends Vehicle {...}
+public class SUV extends Car {...}
+
+Which of the following are legal statements? 
+Answer without trying in eclipse and using the "is-a" relationship test.
+
+  SUV s = new SUV();------->legal statement
+  Car c = new SUV();------->legal statement
+  SUV s = new Car();------->illegal statement
+  Car c = new Vehicle();------->illegal statement
+  Vehicle v = new SUV();------->legal statement
+  Vehicle v = new Car();------->legal statement

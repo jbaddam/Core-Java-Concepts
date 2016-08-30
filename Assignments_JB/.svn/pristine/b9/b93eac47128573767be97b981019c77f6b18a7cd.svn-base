@@ -1,0 +1,190 @@
+package com.bootcamp.corejava.oop.abstractclass.lab1;
+public class AbstractClassImplementation {
+	public static void main(String[] args) {
+		Mammal m = new Lion();
+		m.eat();
+		LandMammal lm = new Lion();
+		lm.eat();
+		lm.crawl();
+		lm.run();
+		Lion lion = new Lion();
+		lion.crawl();
+		lion.eat();
+		lion.run();
+		lion.roar();
+		System.out.println("\nLion execution completed\n\n");
+				Mammal mHumanbeing = new HumanBeing();
+				mHumanbeing.eat();
+				LandMammal lmHumanbeing = new HumanBeing();
+				lmHumanbeing.eat();
+				lmHumanbeing.crawl();
+				lmHumanbeing.run();
+				HumanBeing humnabeing = new HumanBeing();
+				humnabeing.crawl();
+				humnabeing.eat();
+				humnabeing.run();
+				humnabeing.think();
+				System.out.println("\nHumanBeing execution completed\n\n");
+								Mammal mwhale = new Whale();
+								mwhale.eat();
+								WaterMammal wmWhale = new Whale();
+								wmWhale.eat();
+								wmWhale.swim();
+								Whale whale = new Whale();								
+								whale.eat();
+								whale.dive();
+								whale.swim();
+				System.out.println("\nWhale execution completed\n\n");				
+	}
+}
+public class AbstractClassImplementation {
+	public static void main(String[] args) {
+		Mammal m = new Lion();
+		m.eat();
+		LandMammal lm = new Lion();
+		lm.eat();
+		lm.crawl();
+		lm.run();
+		Lion lion = new Lion();
+		lion.crawl();
+		lion.eat();
+		lion.run();
+		lion.roar();
+		System.out.println("\nLion execution completed\n\n");
+				Mammal mHumanbeing = new HumanBeing();
+				mHumanbeing.eat();
+				LandMammal lmHumanbeing = new HumanBeing();
+				lmHumanbeing.eat();
+				lmHumanbeing.crawl();
+				lmHumanbeing.run();
+				HumanBeing humnabeing = new HumanBeing();
+				humnabeing.crawl();
+				humnabeing.eat();
+				humnabeing.run();
+				humnabeing.think();
+				System.out.println("\nHumanBeing execution completed\n\n");
+								Mammal mwhale = new Whale();
+								mwhale.eat();
+								WaterMammal wmWhale = new Whale();
+								wmWhale.eat();
+								wmWhale.swim();
+								Whale whale = new Whale();								
+								whale.eat();
+								whale.dive();
+								whale.swim();
+				System.out.println("\nWhale execution completed\n\n");				
+	}
+}
+public class AbstractClassImplementation {
+	public static void main(String[] args) {
+		Mammal m = new Lion();
+		m.eat();
+		LandMammal lm = new Lion();
+		lm.eat();
+		lm.crawl();
+		lm.run();
+		Lion lion = new Lion();
+		lion.crawl();
+		lion.eat();
+		lion.run();
+		lion.roar();
+		System.out.println("\nLion execution completed\n\n");
+				Mammal mHumanbeing = new HumanBeing();
+				mHumanbeing.eat();
+				LandMammal lmHumanbeing = new HumanBeing();
+				lmHumanbeing.eat();
+				lmHumanbeing.crawl();
+				lmHumanbeing.run();
+				HumanBeing humnabeing = new HumanBeing();
+				humnabeing.crawl();
+				humnabeing.eat();
+				humnabeing.run();
+				humnabeing.think();
+				System.out.println("\nHumanBeing execution completed\n\n");
+								Mammal mwhale = new Whale();
+								mwhale.eat();
+								WaterMammal wmWhale = new Whale();
+								wmWhale.eat();
+								wmWhale.swim();
+								Whale whale = new Whale();								
+								whale.eat();
+								whale.dive();
+								whale.swim();
+				System.out.println("\nWhale execution completed\n\n");				
+	}
+}
+package com.bootcamp.corejava.oop.abstractclass.lab1;
+public class AbstractClassImplementation {
+	public static void main(String[] args) {
+		Mammal m = new Lion();
+		m.eat();
+		LandMammal lm = new Lion();
+		lm.eat();
+		lm.crawl();
+		lm.run();
+		Lion lion = new Lion();
+		lion.crawl();
+		lion.eat();
+		lion.run();
+		lion.roar();
+		System.out.println("\nLion execution completed\n\n");
+				Mammal mHumanbeing = new HumanBeing();
+				mHumanbeing.eat();
+				LandMammal lmHumanbeing = new HumanBeing();
+				lmHumanbeing.eat();
+				lmHumanbeing.crawl();
+				lmHumanbeing.run();
+				HumanBeing humnabeing = new HumanBeing();
+				humnabeing.crawl();
+				humnabeing.eat();
+				humnabeing.run();
+				humnabeing.think();
+				System.out.println("\nHumanBeing execution completed\n\n");
+								Mammal mwhale = new Whale();
+								mwhale.eat();
+								WaterMammal wmWhale = new Whale();
+								wmWhale.eat();
+								wmWhale.swim();
+								Whale whale = new Whale();								
+								whale.eat();
+								whale.dive();
+								whale.swim();
+				System.out.println("\nWhale execution completed\n\n");				
+	}
+}
+public class AbstractClassImplementation {
+	public static void main(String[] args) {
+		Mammal m = new Lion();
+		m.eat();
+		LandMammal lm = new Lion();
+		lm.eat();
+		lm.crawl();
+		lm.run();
+		Lion lion = new Lion();
+		lion.crawl();
+		lion.eat();
+		lion.run();
+		lion.roar();
+		System.out.println("\nLion execution completed\n\n");
+				Mammal mHumanbeing = new HumanBeing();
+				mHumanbeing.eat();
+				LandMammal lmHumanbeing = new HumanBeing();
+				lmHumanbeing.eat();
+				lmHumanbeing.crawl();
+				lmHumanbeing.run();
+				HumanBeing humnabeing = new HumanBeing();
+				humnabeing.crawl();
+				humnabeing.eat();
+				humnabeing.run();
+				humnabeing.think();
+				System.out.println("\nHumanBeing execution completed\n\n");
+								Mammal mwhale = new Whale();
+								mwhale.eat();
+								WaterMammal wmWhale = new Whale();
+								wmWhale.eat();
+								wmWhale.swim();
+								Whale whale = new Whale();								
+								whale.eat();
+								whale.dive();
+								whale.swim();
+				System.out.println("\nWhale execution completed\n\n");				
